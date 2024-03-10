@@ -117,6 +117,6 @@ Truffle requires node version 16 or higher. The node version on my machine on wh
 
 ## License
 
-This project is licensed under the MIT license. See the [LICENSE](https://github.com/Sahil181045/Certificate-Validation-System/blob/main/LICENSE) file for more details.
+This project is licensed under the MIT license. See the [LICENSE](https://github.com/yogeshxd/VerifiCate/blob/main/LICENSE) file for more details.
 
 ---
