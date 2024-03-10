@@ -24,15 +24,15 @@ The system comprises of 2 main entities:
 
 Clone the repository using the command:
 ```sh
-git clone https://github.com/Sahil181045/Certificate-Validation-System.git
+git clone https://github.com/yogeshxd/VerifiCate
 ```
 
 ---
 
 ### Prerequisites
 
-- **Node version >= 21.0.0**  
-Truffle requires node version 16 or higher. The node version on my machine on which I tested this project was 21.0.0. You can try a lower node version (>=16.0).
+- **Node version >= 16.20.0**  
+Truffle requires node version 16 or higher. The node version on my machine on which I tested this project was 16.20.0. You can try a lower node version (>=16.0).
 
 - **Python version >= 3.9.10**  
     Python version 3.9.10 or higher is recommended but other versions may also work.
