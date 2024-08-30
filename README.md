@@ -12,6 +12,8 @@ The system comprises of 2 main entities:
 - **Verifier**: Responsible for verifying certificates. Has the functionality to verify certificates by either uploading a certificate pdf or by inputting the certificate id.
 
 ---
+## Installation & Demo
+[![VerifiCate](https://github.com/yogeshxd/VerifiCate/blob/main/image.png)](https://youtu.be/SMqs-b8zWM8?feature=shared)
 
 ## Features
 
