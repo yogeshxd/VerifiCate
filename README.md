@@ -1,5 +1,7 @@
 # VeriFicate
 
+### NOTE: Devlopement of this project has been stopped because I working on newer projects so this repository will not receving any updates.
+
 ![GitHub](https://img.shields.io/github/last-commit/yogeshxd/VerifiCate)
 
 ## Introduction
